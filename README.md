@@ -47,7 +47,7 @@ Click the edit or delete icon next to each item to update or remove it.
 
 The total expense updates automatically.
 
-Live links:luminous-dasik-62a3b6.netlify.app
+Live links:https://luminous-dasik-62a3b6.netlify.app
 
 📖 Personal Diary
 📝 Overview
@@ -73,5 +73,5 @@ Save the entry — it will appear as a card.
 
 Click any card to view the detailed entry.
 
-Live links: creative-tartufo-5f3cb5.netlify.app
+Live links: https://creative-tartufo-5f3cb5.netlify.app
 
